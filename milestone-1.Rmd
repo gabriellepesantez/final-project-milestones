@@ -1,0 +1,10 @@
+---
+title: "Final Project Milestone #1"
+author: "Gabrielle Pesantez"
+date: "9/18/2020"
+output: html_document
+---
+
+For my final project, I am interested in exploring the demographics of law schools accredited by the American Bar Association (ABA). Specifically, I would like to explore data behind the students who are admitted to and who attend various law schools across the country, with a focus on racial-ethnic and academic backgrounds. I would also like to create several visualizations portraying the bar passage rates and employment outcomes for graduating law students at accredited schools. I plan on using data directly from accredited law schools, which are compiled from questionnaire responses and released to the public every year under the mandate of the ABA. The data I will be using can be found at the website linked below and may be easily downloaded into Microsoft Excel files with data on each school pre-compiled into one sheet. The ABA's datasets contain detailed breakdowns of admitted students' LSAT scores across the 25th, 50th, and 75th percentiles, along with placement data containing statistics on the various law firms (by size) and sectors of law in which graduates find employment. The available data ranges from the years 2010-2019 for employment data, 2011-2019 for demographic disclosure data, and 2018-2020 for bar passage data. I am particularly interested in pursuing this project as I feel that developing clear visualizations on the composition of law schools and outcomes for law school graduates can serve as an extremely useful resource for prospective law students, especially those who have concerns over the value of a law degree or who are interested in exploring the available data on individual schools. Additionally, I would be interested in exploring the expenses associated with attending different law schools and placement data for graduates, with the goal of measuring the relative "success" of each law school in increasing students' employability.
+
+__The American Bar Association's Database:__ http://www.abarequireddisclosures.org/MainHome.aspx
